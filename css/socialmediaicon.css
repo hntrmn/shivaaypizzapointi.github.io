@@ -1,0 +1,50 @@
+/* social media design */
+.footerdesign{
+    color: white;
+    background-color: black;
+    width: 100%;
+}
+.background3{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+      
+}
+.socialmedia3{
+    height: 51px;
+    background-color: black;
+    color: white;
+}
+/* social media icon create */
+
+.fa {
+    padding: 15px;
+    font-size: 15px;
+    width: 15px;
+    text-align: center;
+    margin: 5px 2px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    color: white;
+  }
+  .fa-instagram {
+    color: white;
+  }
+  .fa-youtube {
+    color: white;
+  }
+  .fa-twitter{
+      color: white;
+  }
+.socialmedia{
+    text-align-last: right;
+    margin: 0px 6px;
+    background: black;
+    padding-right: 139px;
+}

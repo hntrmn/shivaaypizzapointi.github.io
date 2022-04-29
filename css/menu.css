@@ -1,0 +1,29 @@
+.footerdesign{
+    color: white;
+    background-color: black;
+    width: 100%;
+}
+.background3{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+      
+}
+.socialmedia3{
+    height: 51px;
+    background-color: black;
+    color: white;
+}
+.deliverycharges{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+.menupic {
+    border-radius: 50%;
+    padding: 12px 0 6px 0;
+    margin: 2px 0 3px 0;
+    width: 200px;
+    height: 200px;
+}

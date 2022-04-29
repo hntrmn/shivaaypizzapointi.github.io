@@ -1,0 +1,42 @@
+@media screen and (max-device-width:639px)and (min-device-width:200px){
+    h1{
+        font-size: 12px;
+    }
+    .text1{
+        font-size: 15px;
+    }
+    .containerdivider{
+        height: fit-content;
+        width: fit-content;
+        height: auto;
+        width: auto;
+    }
+    .imgtext{
+        flex-direction: column;
+
+    }
+    .imageforblog img {
+        height: 200px;
+        width: 100%;
+    }
+    .listofcompany{
+        display: table-cell;
+        font-size: 12px;
+        font-family: none;
+        height: fit-content;
+        height: auto;
+    }
+    .socialmedia3{
+        display: none;
+    }
+    
+}
+@media all and (max-device-width:1116px){
+    .asidesectionimage{
+        height: 372px;
+    }
+    
+    .textsection{
+        font-size: 20px;
+    }
+}

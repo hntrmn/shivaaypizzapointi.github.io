@@ -1,0 +1,61 @@
+@media only screen and (max-width:700px){
+    /* .homelogo img{
+        width: auto;
+        height: 24vh;
+    } */
+    .listofcompany {
+        display: grid;
+        height: 44px;
+    }
+    .listofcompany a{
+        font-size: 12px;
+
+    }
+    .offerbanner{
+        background-color: black;
+        flex-direction: column;
+    }
+    .offerbanner1{
+        width: 100%;
+    }
+    .img1{
+        display: none;
+    }
+    .offerbanner3{
+        width: 100%;
+        height: fit-content;
+    }
+    .imagesize{
+        width: 100%;
+        height:normal;
+    }
+    h1{
+        font-size: 12px;
+    }
+    .containerdivider{
+        height: auto;
+    }
+    .socialmedia{
+        text-align: center;
+        text-align-last: center;
+        margin: 0px 0px;
+        background: black;
+        padding-right: 0px;
+    
+    }
+    .mixstorelogo {
+        text-align: center;
+        width: 67%;
+        margin: auto;
+    }
+}@media only screen and (max-width:966px){
+    .socialmedia1{
+        display: none;
+    }
+}
+@media only screen and (max-width:356px){
+    .containerdivider{
+        word-wrap: break-word;
+        font-size: 8px;
+    }
+}

@@ -1,0 +1,14 @@
+@media only screen and ( max-width:1204px){
+    .offersection{
+        flex-direction: column;
+    }
+    .sectionoffer{
+        width: auto;
+    }
+    .socialmedia3{
+        display:none;
+    }
+    #smallcontainershadow {
+        margin: 0px 0 32px 0px;
+    }
+}
